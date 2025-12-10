@@ -1,11 +1,36 @@
-Developed an interactive HR analytics dashboard in Power BI to analyze 1400+ employees across departments, job roles, experience levels, and compensation.
+Built an end-to-end HR analytics dashboard using Power BI, DAX, and Power Query to track attrition, demographics, hiring, and employee engagement.
 
-Visualized core HR KPIs including Avg Monthly Rate (15.1K), Avg Age (36), Avg Tenure (5 years), Avg Income (5.6K), and Avg Hourly Rate (65.6).
+Analyzed data of 1,400+ employees covering 38 HR metrics including age, salary, department, promotions, distance, travel & job satisfaction.
 
-Incorporated demographic insights revealing 61% male workforce dominance, enabling diversity & inclusion assessment.
+Identified high attrition risk among 18–25 age group employees with frequent travel and low job satisfaction patterns.
 
-Designed education distribution visuals showing Life Sciences as the highest qualification segment (55%), followed by Medical (13%) and Technical (3%).
+Highlighted Sales & R&D as highest turnover departments, helping HR improve retention strategies.
 
-Analyzed job role breakdown highlighting Research Scientists and Laboratory Technicians as largest employee groups, supporting HR allocation planning.
+Segmented workforce using AgeGroup, EducationField, DistanceFromHome, JobRole & WorkLifeBalance to generate actionable insights.
 
-Identified tenure concentration at 5–10 years, indicating experienced workforce stability but rising long-term retention challenges.
+Created DAX measures for Attrition %, Avg Salary, Avg Tenure, Promotion Delay, Work-Life Score.
+
+Automated HR insights with interactive visuals: attrition by age, salary band, commute distance, promotion cycle, job satisfaction & travel frequency.
+
+Enhanced HR team decision-making with centralized KPIs: Hiring Pipeline, Retention Metrics, Time in Role, Manager Tenure, Engagement Index.
+
+
+
+---
+
+📊 Key Insights Derived (Data-Based)
+
+You can add this as a project outcome:
+
+Majority attrition occurred within first 1 year of joining, mostly under 25 age group.
+
+Attrition significantly higher among employees with:
+
+Frequent travel
+
+Low job satisfaction scores (2–3)
+
+High commute distance (10+ km)
+
+
+Employees with no promotion history showed declining performance & retention probability.
