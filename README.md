@@ -20,7 +20,7 @@ Enhanced HR team decision-making with centralized KPIs: Hiring Pipeline, Retenti
 
 📊 Key Insights Derived (Data-Based)
 
-You can add this as a project outcome:
+ project outcome:
 
 Majority attrition occurred within first 1 year of joining, mostly under 25 age group.
 
